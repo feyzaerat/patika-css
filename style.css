@@ -1,0 +1,79 @@
+body::-webkit-scrollbar{
+    display: none;
+}
+body{
+    margin: 0;
+    padding: 5rem 10rem 2rem 10rem;
+    font-family: 'Roboto', sans-serif;
+
+}
+.navbar {
+    padding: 4.5rem 15rem;
+}
+.site-title{
+    color: #a11d19;
+}
+.nav-item{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.nav-item a{
+    color: chocolate;
+}
+a:hover{
+    text-decoration: none;
+}
+.page-title{
+    color:darkslateblue;
+}
+.sub-title{
+    color: goldenrod;
+    font-weight: 600;
+}
+.home-description{
+    color: #777777;
+    font-weight: 600;
+
+}
+.product-list {
+    margin: 2rem 41rem auto;
+    text-decoration: none;
+}
+.home-list {
+    list-style: circle;
+    color: #888;
+    font-weight: 500;
+}
+.card{
+    width: 35%;
+    padding: 1rem;
+    margin: 0 auto;
+}
+.card-title {
+    margin-bottom: .75rem;
+    color: #444;
+    font-weight: 500;
+    text-align: center;
+}
+.card-description {
+    font-size: 0.7rem;
+    padding: 1.5rem;
+    text-align: justify;
+    color: #777;
+}
+
+.card-img img{
+    width: 45%;
+    margin: 1rem 9.7rem auto;
+}
+.about-us {
+    text-align: justify;
+    font-size: 1rem;
+    margin: 2rem 0 auto;
+}
+.mv{
+    font-size: 0.9rem;
+    text-align: justify;
+    margin: 0 0 2rem auto;
+
+}
